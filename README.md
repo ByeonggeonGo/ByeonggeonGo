@@ -1,27 +1,59 @@
 # Hi there, I'm Byeonggeon Go! 👋
-I am a software engineer and researcher specializing in geospatial data processing, automated web pipelines, and document intelligence systems. I enjoy architecting generic, high-performance developer tools that bridge Web, AI, and GIS environments.
+I am a software engineer and researcher specializing in **Machine Learning, Deep Learning, and Data Science**. My research and engineering work primarily focuses on **Optimization** and **Reinforcement Learning (RL)**, alongside geospatial data analysis and intelligent document pipelines.
 
-## 🛠️ Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-- **Data & AI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-BD93F9?style=flat-square&logo=jax&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FD971F?style=flat-square&logo=dask&logoColor=white)
-- **App & Game:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![MonoGame](https://img.shields.io/badge/MonoGame-E11E1E?style=flat-square&logo=monogame&logoColor=white)
-- **GIS & Environment:** QGIS, GDAL, OGC WFS/WMS
+---
 
-## 🌍 Open Source Developer Tools
-Here is a list of my key modular projects, designed to solve specific programmatic challenges.
+## 🛠️ Tech Stack & Areas of Interest
+- **Research Domains:** Deep Learning (DL), Machine Learning (ML), Reinforcement Learning (RL), Mathematical Optimization, Data Science.
+- **Languages:** Python, C#, JavaScript, Dart
+- **Frameworks & Libraries:** PyTorch, TensorFlow, JAX, Dask, Scikit-learn, Pandas, NumPy
+- **Specialty Domains:** GIS/Environment, Spatial Modeling, Automation Pipelines
 
-### 1. Automation & Scrapers
-- [DocuStream-Scout](https://github.com/ByeonggeonGo/DocuStream-Scout) : A modular, browser automation explorer powered by Playwright to recursively traverse hierarchical web menus and handle file-stream downloads.
-- [KOSIS_Data_Master](https://github.com/ByeonggeonGo/KOSIS_Data_Master) : A custom client interfacing with the Korean Statistical Information Service OpenAPI to systematically download massive statistical data in batches.
+---
 
-### 2. Document Intelligence & LLMs
-- [Lingo-Doc-Parser](https://github.com/ByeonggeonGo/Lingo-Doc-Parser) : An LLM-driven document parser and FastAPI REST API backend that performs semantic chunking and structured parameter extraction on raw text reports.
+## 🌍 Key Projects
+Here is a list of my key projects across Machine Learning, Reinforcement Learning, Spatial Data Science, and Developer Tools:
 
-### 3. Spatial Data & Engineering
-- [Geo-CAD-Forge](https://github.com/ByeonggeonGo/Geo-CAD-Forge) : A geospatial data service querying OGC WFS/WMS layers, caching payloads in SQLite/PostGIS, and converting georeferenced vectors into layered DXF drawings for CAD design.
+### 1. Reinforcement Learning & Optimization
+- [multi_agent_awac](https://github.com/ByeonggeonGo/multi_agent_awac) - Offline Reinforcement Learning (AWAC) codebase for Multi-Agent HVAC and Indoor Air Quality control optimization.
+- [AWAC_code_practice](https://github.com/ByeonggeonGo/AWAC_code_practice) - Practice and modular implementations of Advantage Weighted Actor-Critic (AWAC) algorithm in PyTorch.
 
-### 4. Interactive Geolocation
-- [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) : An AI-powered full-stack geolocation service for matching real-time field imagery (using YOLO+SAM object segments) with spatial reference layers.
+### 2. Machine Learning & Data Science
+- [geo_sdm](https://github.com/ByeonggeonGo/geo_sdm) - Geospatial Species Distribution Modeling and spatial prediction pipeline.
+- [global_temperature_trend](https://github.com/ByeonggeonGo/global_temperature_trend) - Global and regional temperature trend analysis using historical climate datasets.
+- [CmaqProject](https://github.com/ByeonggeonGo/CmaqProject) - Environmental data processing and modeling tools for CMAQ (Community Multiscale Air Quality) simulation datasets.
+
+### 3. Spatial Data Engineering & CAD
+- [Geo-CAD-Forge](https://github.com/ByeonggeonGo/Geo-CAD-Forge) - Geospatial pipeline querying WFS/WMS services, caching data in SQLite/PostGIS, and converting vectors to layered DXF drawings.
+- [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) - AI-powered geolocation and spatial alignment using YOLO & Segment Anything Model (SAM) for field imagery.
+
+### 4. Document Intelligence & Automation
+- [Lingo-Doc-Parser](https://github.com/ByeonggeonGo/Lingo-Doc-Parser) - LLM-driven semantic chunking, structured parameter extraction, and FastAPI backend wrapper.
+- [DocuStream-Scout](https://github.com/ByeonggeonGo/DocuStream-Scout) - Playwright-powered modular browser automation tool for recursive site navigation and file stream scraping.
+- [KOSIS_Data_Master](https://github.com/ByeonggeonGo/KOSIS_Data_Master) - Custom OpenAPI client for automated batch retrieval and integration of KOSIS (Korean Statistical Information Service) data.
+
+---
+
+## 🎓 Education
+- **Degree / Field of Study** - *University Name* (Expected Graduation / Graduation Year)
+  - Detail 1 (e.g., GPA, major courses)
+  - Detail 2
+
+---
+
+## 💼 Experience
+- **Role / Job Title** - *Company/Institution Name* (MM/YYYY ~ MM/YYYY)
+  - Key achievement 1
+  - Key achievement 2
+
+---
+
+## 📝 Publications
+- **Paper Title** - *Journal/Conference Name* (Year)
+  - Authors
+  - [Link to paper](URL)
+
+---
 
 ## 📊 GitHub Stats
 ![ByeonggeonGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeonggeonGo&show_icons=true&theme=transparent)
