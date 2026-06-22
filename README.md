@@ -32,6 +32,11 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 - [DocuStream-Scout](https://github.com/ByeonggeonGo/DocuStream-Scout) - Playwright-powered modular browser automation tool for recursive site navigation and file stream scraping.
 - [KOSIS_Data_Master](https://github.com/ByeonggeonGo/KOSIS_Data_Master) - Custom OpenAPI client for automated batch retrieval and integration of KOSIS (Korean Statistical Information Service) data.
 
+### 5. LLM Products
+- **law_chat** - An AI-powered legal consultation service providing conversational Q&A and document reference lookups.
+  - [Web Application](https://law-chat-424793710669.asia-northeast3.run.app)
+  - [Google Play Store App](https://play.google.com/store/apps/details?id=com.rhqud.lawchat&pcampaignid=web_share)
+
 ---
 
 ## 🎓 Education
