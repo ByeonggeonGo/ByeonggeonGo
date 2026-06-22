@@ -35,23 +35,46 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 ---
 
 ## 🎓 Education
-- **Degree / Field of Study** - *University Name* (Expected Graduation / Graduation Year)
-  - Detail 1 (e.g., GPA, major courses)
-  - Detail 2
+- **M.S. in Environmental Engineering** - *University of Seoul* (Mar 2020 ~ Aug 2021)
+  - GPA: 4.31 / 4.5
+- **B.S. in Environmental Engineering** - *University of Seoul* (Mar 2016 ~ Feb 2020)
+  - GPA: 3.61 / 4.5
 
 ---
 
 ## 💼 Experience
-- **Role / Job Title** - *Company/Institution Name* (MM/YYYY ~ MM/YYYY)
-  - Key achievement 1
-  - Key achievement 2
+- **Research Engineer** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
+  - Developed predictive maintenance (PdM) algorithms for smart battery production facilities.
+  - Engineered fault diagnostic features and conducted signal processing.
+  - Performed time-series data analysis, forecasting, and anomaly detection.
+  - Optimized and operated on-premise machine learning models.
+- **Data Scientist / Research Engineer** - *EHR&C Co., Ltd.* (Data Science Team, Dec 2021 ~ Aug 2023)
+  - Developed reinforcement learning (RL) based optimal management systems for indoor air quality (IAQ).
+  - Optimized indoor CO2 and fine dust concentrations using RL agents.
+  - Preprocessed sensor data and built anomaly detection models for faulty CO2 sensors.
+  - Lightweighted and deployed models to client systems.
 
 ---
 
-## 📝 Publications
-- **Paper Title** - *Journal/Conference Name* (Year)
-  - Authors
-  - [Link to paper](URL)
+## 📝 Publications & Research Projects
+### Journal Papers
+- **Go, B.**, Shin, J., & Cha, Y. (2021). Development of benthic macroinvertebrate species distribution models using the Bayesian optimization. *Journal of the Korean Society of Water and Wastewater*, 35(4), 259-275.
+- Cha, Y., Shin, J., **Go, B.**, Lee, D. S., Kim, Y., Kim, T., & Park, Y. S. (2021). An interpretable machine learning method for supporting ecosystem management: Application to species distribution models of freshwater macroinvertebrates. *Journal of Environmental Management*, 291, 112719.
+- Shin, J., Yoon, S., Kim, Y., Kim, T., **Go, B.**, & Cha, Y. (2021). Effects of class imbalance on resampling and ensemble learning for improved prediction of cyanobacteria blooms. *Ecological Informatics*, 61, 101202.
+- Kim, Y. W., Kim, T., Shin, J., **Go, B.**, Lee, M., Lee, J., ... & Cha, Y. (2021). Forecasting abrupt depletion of dissolved oxygen in urban streams using discontinuously measured hourly time-series data. *Water Resources Research*, 57(4), e2020WR029188.
+- Kim, T., Kim, Y., Shin, J., **Go, B.**, & Cha, Y. (2020). Assessing land-cover effects on stream water quality in metropolitan areas using the water quality index. *Water*, 12(11), 3294.
+
+### Theses & Conference Proceedings
+- **Go, B.** (2021). Development of Species Distribution Models through Bayesian Optimization and Model Interpretation (Master's Thesis, University of Seoul).
+- **Go, B.**, Kim, Y., Shin, J., Kim, T., & Cha, Y. (2020). The effect of hyperparameter optimization method and generalization performance estimation method of machine learning model on the performance of river water quality forecasting model. *Korean Society of Environmental Engineers (KSEE) Conference*, Jeju, Korea.
+
+### Academic Research Projects
+- **Development of assessment methods and prediction models for water ecosystem health** (Korea Environmental Industry & Technology Institute, May 2020 ~ Jun 2021)
+- **Development of water/wastewater big data management/analysis platform and standardization technology** (Ministry of Environment, Apr 2020 ~ Jun 2021)
+- **Development of optimization methods for Seoul roadside air pollution monitoring network to support fine dust response policies** (Seoul Green Environment Center, Apr 2020 ~ Dec 2020)
+- **Development of AI-based modular models for multi-scale analysis of multi-mode environmental data** (Ministry of Science and ICT, Mar 2020 ~ Jun 2021)
+- **Development and applicability assessment of next-generation water quality and aquatic ecosystem forecasting models (II)** (National Institute of Environmental Research, Sep 2019 ~ Oct 2019)
+- **Establishment of water quality change evaluation plan using statistical methods (II)** (National Institute of Environmental Research, Jul 2019 ~ Mar 2020)
 
 ---
 
