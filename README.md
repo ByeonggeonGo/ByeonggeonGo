@@ -19,9 +19,10 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
   - [Web Application](https://law-chat-424793710669.asia-northeast3.run.app)
   - [Google Play Store App](https://play.google.com/store/apps/details?id=com.rhqud.lawchat&pcampaignid=web_share)
 - **Enterprise Agentic Automation Platform (Confidential)** - An LLM-powered multi-agent pipeline designed to automate workflows and document compliance verification.
-  - Implemented an **Agentic RAG** system that dynamically retrieves and synthesizes legal regulations, environmental impact databases, and spatial/OGC WFS GIS resources.
+  - Implemented an **Agentic RAG** system that dynamically retrieves and synthesizes legal regulations, regulatory compliance databases, and spatial/OGC WFS GIS resources.
   - Engineered custom **Tool Calling** systems enabling LLMs to autonomously execute web scraping tasks, database lookups, and API orchestrations.
   - Developed a scalable FastAPI/React architecture managing asynchronous background workers for heavy document parsing and automated report drafting.
+- [geo-spatial-agent-rag](https://github.com/ByeonggeonGo/geo-spatial-agent-rag) - An Agentic RAG prototype connecting LLM agents directly with OGC spatial services (WFS/WMS) via dynamic Function Calling.
 
 ### 2. Reinforcement Learning & Optimization
 - [multi_agent_awac](https://github.com/ByeonggeonGo/multi_agent_awac) - Offline Reinforcement Learning (AWAC) codebase for Multi-Agent HVAC and Indoor Air Quality control optimization.
@@ -40,6 +41,9 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 - [Lingo-Doc-Parser](https://github.com/ByeonggeonGo/Lingo-Doc-Parser) - LLM-driven semantic chunking, structured parameter extraction, and FastAPI backend wrapper.
 - [DocuStream-Scout](https://github.com/ByeonggeonGo/DocuStream-Scout) - Playwright-powered modular browser automation tool for recursive site navigation and file stream scraping.
 - [KOSIS_Data_Master](https://github.com/ByeonggeonGo/KOSIS_Data_Master) - Custom OpenAPI client for automated batch retrieval and integration of KOSIS (Korean Statistical Information Service) data.
+- [llm-semantic-chunk-parser](https://github.com/ByeonggeonGo/llm-semantic-chunk-parser) - An API service performing semantic text chunking and structured parameter extraction using JSON outputs from LLMs.
+- [async-playwright-downloader](https://github.com/ByeonggeonGo/async-playwright-downloader) - An asynchronous document batch-download and browser automation service built with FastAPI and Playwright.
+- [fastapi-react-kanban-groupware](https://github.com/ByeonggeonGo/fastapi-react-kanban-groupware) - A fullstack enterprise groupware starter kit with custom drag-and-drop Kanban boards, built on FastAPI, SQLite, and React.
 
 ---
 
@@ -52,9 +56,9 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 ## 💼 Experience
 - **Research Engineer / Data Scientist** - *Kunhwa Co., Ltd.* (Environmental Assessment Division & AITF Team, Jan 2026 ~ Present)
   - Designed and developed an enterprise-grade agentic automation and efficiency system utilizing Large Language Models (LLMs) and retrieval technologies.
-  - Built an Agentic RAG (Retrieval-Augmented Generation) pipeline integrated with GIS/spatial databases and multi-format document databases (PDFs, Excel) for automated environmental reporting.
+  - Built an Agentic RAG (Retrieval-Augmented Generation) pipeline integrated with GIS/spatial databases and multi-format document databases (PDFs, Excel) for automated engineering compliance reporting.
   - Implemented advanced LLM Tool Calling interfaces connecting Playwright-based headless scrapers, web APIs, and relational databases.
-  - Optimized workspace productivity by architecting modular microservices (FastAPI, React, SQLite/PostgreSQL) processing bulk environmental data.
+  - Optimized workspace productivity by architecting modular microservices (FastAPI, React, SQLite/PostgreSQL) processing bulk engineering and spatial data.
 - **Data Scientist** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
   - Developed predictive maintenance (PdM) algorithms for smart battery production facilities.
   - Engineered fault diagnostic features and conducted signal processing.
