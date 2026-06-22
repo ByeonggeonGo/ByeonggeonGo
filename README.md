@@ -11,7 +11,7 @@ I am a software engineer and researcher specializing in **Machine Learning, Deep
 
 ---
 
-## 🌍 Key Projects
+## 🌍 Projects
 Here is a list of my key projects across Machine Learning, Reinforcement Learning, Spatial Data Science, and Developer Tools:
 
 ### 1. Reinforcement Learning & Optimization
@@ -36,19 +36,17 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 
 ## 🎓 Education
 - **M.S. in Environmental Engineering** - *University of Seoul* (Mar 2020 ~ Aug 2021)
-  - GPA: 4.31 / 4.5
 - **B.S. in Environmental Engineering** - *University of Seoul* (Mar 2016 ~ Feb 2020)
-  - GPA: 3.61 / 4.5
 
 ---
 
 ## 💼 Experience
-- **Research Engineer** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
+- **Data Scientist** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
   - Developed predictive maintenance (PdM) algorithms for smart battery production facilities.
   - Engineered fault diagnostic features and conducted signal processing.
   - Performed time-series data analysis, forecasting, and anomaly detection.
   - Optimized and operated on-premise machine learning models.
-- **Data Scientist / Research Engineer** - *EHR&C Co., Ltd.* (Data Science Team, Dec 2021 ~ Aug 2023)
+- **Data Scientist** - *EHR&C Co., Ltd.* (Data Science Team, Dec 2021 ~ Aug 2023)
   - Developed reinforcement learning (RL) based optimal management systems for indoor air quality (IAQ).
   - Optimized indoor CO2 and fine dust concentrations using RL agents.
   - Preprocessed sensor data and built anomaly detection models for faulty CO2 sensors.
@@ -78,6 +76,4 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 
 ---
 
-## 📊 GitHub Stats
-![ByeonggeonGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeonggeonGo&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeonggeonGo&layout=compact&theme=transparent)
+### You can contact me via email at rhqudrjs7@gmail.com
