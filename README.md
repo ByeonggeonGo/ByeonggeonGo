@@ -24,20 +24,27 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
   - Developed a scalable FastAPI/React architecture managing asynchronous background workers for heavy document parsing and automated report drafting.
 - [geo-spatial-agent-rag](https://github.com/ByeonggeonGo/geo-spatial-agent-rag) - An Agentic RAG prototype connecting LLM agents directly with OGC spatial services (WFS/WMS) via dynamic Function Calling.
 
-### 2. Reinforcement Learning & Optimization
+### 2. LLM Evaluation & Benchmarks (Confidential / Freelance)
+- **Domain-Specific LLM Agent Benchmark Task Development** (Client: Ebit Co., Ltd.)
+  - Designed and developed high-difficulty benchmarking tasks to evaluate the reasoning and tool-use capabilities of LLM coding agents.
+  - Formulated complex scenarios in Scientific Computing and Environmental Engineering domains (e.g., river water quality modeling, chemical speciation, and parameter estimation).
+  - Engineered critical constraints and "reasoning traps" (such as temperature corrections and missing data interpolation) to test the agent's actual multi-step logic rather than memorized patterns.
+  - Built automated evaluation pipelines using Pytest to assess agent outputs in a secure sandboxed terminal environment.
+
+### 3. Reinforcement Learning & Optimization
 - [multi_agent_awac](https://github.com/ByeonggeonGo/multi_agent_awac) - Offline Reinforcement Learning (AWAC) codebase for Multi-Agent HVAC and Indoor Air Quality control optimization.
 - [AWAC_code_practice](https://github.com/ByeonggeonGo/AWAC_code_practice) - Practice and modular implementations of Advantage Weighted Actor-Critic (AWAC) algorithm in PyTorch.
 
-### 3. Machine Learning & Data Science
+### 4. Machine Learning & Data Science
 - [geo_sdm](https://github.com/ByeonggeonGo/geo_sdm) - Geospatial Species Distribution Modeling and spatial prediction pipeline.
 - [global_temperature_trend](https://github.com/ByeonggeonGo/global_temperature_trend) - Global and regional temperature trend analysis using historical climate datasets.
 - [CmaqProject](https://github.com/ByeonggeonGo/CmaqProject) - Environmental data processing and modeling tools for CMAQ (Community Multiscale Air Quality) simulation datasets.
 
-### 4. Spatial Data Engineering & CAD
+### 5. Spatial Data Engineering & CAD
 - [Geo-CAD-Forge](https://github.com/ByeonggeonGo/Geo-CAD-Forge) - Geospatial pipeline querying WFS/WMS services, caching data in SQLite/PostGIS, and converting vectors to layered DXF drawings.
 - [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) - AI-powered geolocation and spatial alignment using YOLO & Segment Anything Model (SAM) for field imagery.
 
-### 5. Document Intelligence & Automation
+### 6. Document Intelligence & Automation
 - [Lingo-Doc-Parser](https://github.com/ByeonggeonGo/Lingo-Doc-Parser) - LLM-driven semantic chunking, structured parameter extraction, and FastAPI backend wrapper.
 - [DocuStream-Scout](https://github.com/ByeonggeonGo/DocuStream-Scout) - Playwright-powered modular browser automation tool for recursive site navigation and file stream scraping.
 - [KOSIS_Data_Master](https://github.com/ByeonggeonGo/KOSIS_Data_Master) - Custom OpenAPI client for automated batch retrieval and integration of KOSIS (Korean Statistical Information Service) data.
@@ -59,6 +66,10 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
   - Built an Agentic RAG (Retrieval-Augmented Generation) pipeline integrated with GIS/spatial databases and multi-format document databases (PDFs, Excel) for automated engineering compliance reporting.
   - Implemented advanced LLM Tool Calling interfaces connecting Playwright-based headless scrapers, web APIs, and relational databases.
   - Optimized workspace productivity by architecting modular microservices (FastAPI, React, SQLite/PostgreSQL) processing bulk engineering and spatial data.
+- **Freelance AI / Software Engineer** - *Ebit Co., Ltd.* (Nov 2025 ~ Present)
+  - Designed specialized evaluation benchmark datasets for LLM coding agents.
+  - Formulated multi-step engineering simulation tasks requiring code execution, mathematical modeling, and real-time environment navigation.
+  - Implemented automated scoring scripts and sandbox configuration validations.
 - **Data Scientist** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
   - Developed predictive maintenance (PdM) algorithms for smart battery production facilities.
   - Engineered fault diagnostic features and conducted signal processing.
