@@ -12,7 +12,7 @@ Here is a list of my key projects grouped by domain.
 
 ### 1. GIS & Environmental Science
 - [global_temperature_trend](https://github.com/ByeonggeonGo/global_temperature_trend) : Data analysis and visualization analyzing global temperature trends.
-- [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) : Geospatial imagery and environmental image analysis solutions powered by AI.
+- [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) : An AI-powered full-stack geolocation service for post-environmental impact assessments, matching field imagery (YOLO+SAM) with CAD design blueprints in real-time.
 - [geo_sdm](https://github.com/ByeonggeonGo/geo_sdm) : Spatial analysis library for Species Distribution Modeling (SDM).
 - [CmaqProject](https://github.com/ByeonggeonGo/CmaqProject) : Air quality modeling and analysis project utilizing CMAQ (Community Multiscale Air Quality) model.
 - [stream_chem_deg_estimator](https://github.com/ByeonggeonGo/stream_chem_deg_estimator) : Tool for predicting degradation and attenuation of water quality chemical substances in streams.
