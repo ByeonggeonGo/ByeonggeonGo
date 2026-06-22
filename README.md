@@ -18,6 +18,10 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 - **law_chat** - An AI-powered legal consultation service providing conversational Q&A and document reference lookups.
   - [Web Application](https://law-chat-424793710669.asia-northeast3.run.app)
   - [Google Play Store App](https://play.google.com/store/apps/details?id=com.rhqud.lawchat&pcampaignid=web_share)
+- **Enterprise Agentic Automation Platform (Confidential)** - An LLM-powered multi-agent pipeline designed to automate workflows and document compliance verification.
+  - Implemented an **Agentic RAG** system that dynamically retrieves and synthesizes legal regulations, environmental impact databases, and spatial/OGC WFS GIS resources.
+  - Engineered custom **Tool Calling** systems enabling LLMs to autonomously execute web scraping tasks, database lookups, and API orchestrations.
+  - Developed a scalable FastAPI/React architecture managing asynchronous background workers for heavy document parsing and automated report drafting.
 
 ### 2. Reinforcement Learning & Optimization
 - [multi_agent_awac](https://github.com/ByeonggeonGo/multi_agent_awac) - Offline Reinforcement Learning (AWAC) codebase for Multi-Agent HVAC and Indoor Air Quality control optimization.
@@ -46,6 +50,11 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 ---
 
 ## 💼 Experience
+- **Research Engineer / Data Scientist** - *Kunhwa Co., Ltd.* (Environmental Assessment Division & AITF Team, Jan 2026 ~ Present)
+  - Designed and developed an enterprise-grade agentic automation and efficiency system utilizing Large Language Models (LLMs) and retrieval technologies.
+  - Built an Agentic RAG (Retrieval-Augmented Generation) pipeline integrated with GIS/spatial databases and multi-format document databases (PDFs, Excel) for automated environmental reporting.
+  - Implemented advanced LLM Tool Calling interfaces connecting Playwright-based headless scrapers, web APIs, and relational databases.
+  - Optimized workspace productivity by architecting modular microservices (FastAPI, React, SQLite/PostgreSQL) processing bulk environmental data.
 - **Data Scientist** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
   - Developed predictive maintenance (PdM) algorithms for smart battery production facilities.
   - Engineered fault diagnostic features and conducted signal processing.
