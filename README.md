@@ -1,56 +1,22 @@
-# Hi there, I'm Byeonggeon Go! 👋
-I am a software engineer and researcher specializing in **Machine Learning, Deep Learning, and Data Science**. My research and engineering work primarily focuses on **Optimization** and **Reinforcement Learning (RL)**, alongside geospatial data analysis and intelligent document pipelines.
+# Hi, I'm Byeonggeon Go! 👋
+
+I'm an **AI Engineer** specializing in **optimization, reinforcement learning, and production AI systems**.
+
+My work focuses on reducing computational costs, improving model reliability, and building practical AI solutions across industrial and environmental domains.
+
+**Core Expertise:** Bayesian Optimization · Reinforcement Learning · Time-Series ML · LLM Systems · Computational Optimization
+
+📧 **Contact:** [Email](mailto:rhqudrjs7@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Areas of Interest
-- **Research Domains:** Deep Learning (DL), Machine Learning (ML), Reinforcement Learning (RL), Mathematical Optimization, Data Science.
+
+- **Research Interests:** Bayesian Optimization, Reinforcement Learning, Model Interpretability, and Time-Series Forecasting
 - **Languages:** Python, C#, JavaScript, Dart
-- **Frameworks & Libraries:** PyTorch, TensorFlow, JAX, Dask, Scikit-learn, Pandas, NumPy
-- **Specialty Domains:** GIS/Environment, Spatial Modeling, Automation Pipelines
-
----
-
-## 🌍 Projects
-Here is a list of my key projects across Machine Learning, Reinforcement Learning, Spatial Data Science, and Developer Tools:
-
-### 1. LLM Products
-- **law_chat** - An AI-powered legal consultation service providing conversational Q&A and document reference lookups.
-  - [Web Application](https://law-chat-424793710669.asia-northeast3.run.app)
-  - [Google Play Store App](https://play.google.com/store/apps/details?id=com.rhqud.lawchat&pcampaignid=web_share)
-- **Enterprise Agentic Automation Platform (Confidential)** - An LLM-powered multi-agent pipeline designed to automate workflows and document compliance verification.
-  - Implemented an **Agentic RAG** system that dynamically retrieves and synthesizes legal regulations, regulatory compliance databases, and spatial/OGC WFS GIS resources.
-  - Engineered custom **Tool Calling** systems enabling LLMs to autonomously execute web scraping tasks, database lookups, and API orchestrations.
-  - Developed a scalable FastAPI/React architecture managing asynchronous background workers for heavy document parsing and automated report drafting.
-- [geo-spatial-agent-rag](https://github.com/ByeonggeonGo/geo-spatial-agent-rag) - An Agentic RAG prototype connecting LLM agents directly with OGC spatial services (WFS/WMS) via dynamic Function Calling.
-
-### 2. LLM Evaluation & Benchmarks (Confidential / Freelance)
-- **Domain-Specific LLM Agent Benchmark Task Development** (Client: Ebit Co., Ltd.)
-  - Designed and developed high-difficulty benchmarking tasks to evaluate the reasoning and tool-use capabilities of LLM coding agents.
-  - Formulated complex scenarios in Scientific Computing and Environmental Engineering domains (e.g., river water quality modeling, chemical speciation, and parameter estimation).
-  - Engineered critical constraints and "reasoning traps" (such as temperature corrections and missing data interpolation) to test the agent's actual multi-step logic rather than memorized patterns.
-  - Built automated evaluation pipelines using Pytest to assess agent outputs in a secure sandboxed terminal environment.
-
-### 3. Reinforcement Learning & Optimization
-- [multi_agent_awac](https://github.com/ByeonggeonGo/multi_agent_awac) - Offline Reinforcement Learning (AWAC) codebase for Multi-Agent HVAC and Indoor Air Quality control optimization.
-- [AWAC_code_practice](https://github.com/ByeonggeonGo/AWAC_code_practice) - Practice and modular implementations of Advantage Weighted Actor-Critic (AWAC) algorithm in PyTorch.
-
-### 4. Machine Learning & Data Science
-- [geo_sdm](https://github.com/ByeonggeonGo/geo_sdm) - Geospatial Species Distribution Modeling and spatial prediction pipeline.
-- [global_temperature_trend](https://github.com/ByeonggeonGo/global_temperature_trend) - Global and regional temperature trend analysis using historical climate datasets.
-- [CmaqProject](https://github.com/ByeonggeonGo/CmaqProject) - Environmental data processing and modeling tools for CMAQ (Community Multiscale Air Quality) simulation datasets.
-
-### 5. Spatial Data Engineering & CAD
-- [Geo-CAD-Forge](https://github.com/ByeonggeonGo/Geo-CAD-Forge) - Geospatial pipeline querying WFS/WMS services, caching data in SQLite/PostGIS, and converting vectors to layered DXF drawings.
-- [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) - AI-powered geolocation and spatial alignment using YOLO & Segment Anything Model (SAM) for field imagery.
-
-### 6. Document Intelligence & Automation
-- [Lingo-Doc-Parser](https://github.com/ByeonggeonGo/Lingo-Doc-Parser) - LLM-driven semantic chunking, structured parameter extraction, and FastAPI backend wrapper.
-- [DocuStream-Scout](https://github.com/ByeonggeonGo/DocuStream-Scout) - Playwright-powered modular browser automation tool for recursive site navigation and file stream scraping.
-- [KOSIS_Data_Master](https://github.com/ByeonggeonGo/KOSIS_Data_Master) - Custom OpenAPI client for automated batch retrieval and integration of KOSIS (Korean Statistical Information Service) data.
-- [llm-semantic-chunk-parser](https://github.com/ByeonggeonGo/llm-semantic-chunk-parser) - An API service performing semantic text chunking and structured parameter extraction using JSON outputs from LLMs.
-- [async-playwright-downloader](https://github.com/ByeonggeonGo/async-playwright-downloader) - An asynchronous document batch-download and browser automation service built with FastAPI and Playwright.
-- [fastapi-react-kanban-groupware](https://github.com/ByeonggeonGo/fastapi-react-kanban-groupware) - A fullstack enterprise groupware starter kit with custom drag-and-drop Kanban boards, built on FastAPI, SQLite, and React.
+- **ML & Optimization:** PyTorch, TensorFlow, JAX, numba, scikit-learn, SHAP, Hyperopt
+- **Backend & Data:** FastAPI, PostgreSQL/PostGIS, SQLite, Playwright
+- **Application Domains:** Industrial AI, Environmental AI, and Time-Series Modeling
 
 ---
 
@@ -58,51 +24,87 @@ Here is a list of my key projects across Machine Learning, Reinforcement Learnin
 - **M.S. in Environmental Engineering** - *University of Seoul* (Mar 2020 ~ Aug 2021)
 - **B.S. in Environmental Engineering** - *University of Seoul* (Mar 2016 ~ Feb 2020)
 
+## 📝 Research Highlights
+
+- **Bayesian Optimization:** Optimized five species distribution models using TPE-based hyperparameter search, identifying convergence within 50–100 trials for selected models.
+- **Time-Series Interpolation:** Developed a pattern-matching-based interpolation method that increased the number of usable high-quality samples, reducing prediction interval width by **3%**.
+- **SHAP-Guided Optimization:** Analyzed model behavior and domain consistency across optimization budgets, identifying conditions that reduced the required search from 1,000 to 100 trials (90%) without compromising predictive performance or domain-consistent behavior.
+
 ---
 
-## 💼 Experience
-- **Research Engineer / Data Scientist** - *Kunhwa Co., Ltd.* (Environmental Assessment Division & AITF Team, Jan 2026 ~ Present)
-  - Designed and developed an enterprise-grade agentic automation and efficiency system utilizing Large Language Models (LLMs) and retrieval technologies.
-  - Built an Agentic RAG (Retrieval-Augmented Generation) pipeline integrated with GIS/spatial databases and multi-format document databases (PDFs, Excel) for automated engineering compliance reporting.
-  - Implemented advanced LLM Tool Calling interfaces connecting Playwright-based headless scrapers, web APIs, and relational databases.
-  - Optimized workspace productivity by architecting modular microservices (FastAPI, React, SQLite/PostgreSQL) processing bulk engineering and spatial data.
-- **Freelance AI / Software Engineer** - *Ebit Co., Ltd.* (Nov 2025 ~ Present)
-  - Designed specialized evaluation benchmark datasets for LLM coding agents.
-  - Formulated multi-step engineering simulation tasks requiring code execution, mathematical modeling, and real-time environment navigation.
-  - Implemented automated scoring scripts and sandbox configuration validations.
-- **Data Scientist** - *OnePredict Inc.* (Data Intelligence Team 1, Aug 2023 ~ Nov 2024)
-  - Developed predictive maintenance (PdM) algorithms for smart battery production facilities.
-  - Engineered fault diagnostic features and conducted signal processing.
-  - Performed time-series data analysis, forecasting, and anomaly detection.
-  - Optimized and operated on-premise machine learning models.
-- **Data Scientist** - *EHR&C Co., Ltd.* (Data Science Team, Dec 2021 ~ Aug 2023)
-  - Developed reinforcement learning (RL) based optimal management systems for indoor air quality (IAQ).
-  - Optimized indoor CO2 and fine dust concentrations using RL agents.
-  - Preprocessed sensor data and built anomaly detection models for faulty CO2 sensors.
-  - Lightweighted and deployed models to client systems.
+## 💼 Professional Experience
 
+### AI Engineer | Kunhwa Co., Ltd.
+*AITF Team · Jan 2026 – Present*
+
+- **LLM Pipeline Optimization:** Reduced document-processing latency from **12s to 4s (~67%)** by profiling retrieval bottlenecks and implementing batched embeddings, caching, and asynchronous workers.
+- **Agentic RAG:** Built LLM tool-calling pipelines integrating GIS (PostGIS, WFS/WMS), PDF/Excel processing, Playwright automation, and regulatory databases for automated engineering compliance reporting.
+- **Production Engineering:** Deployed FastAPI/React-based internal applications with automated source verification and traceable citations to document cells, coordinates, and regulations.
+
+### LLM Benchmark Engineer | Ebit Co., Ltd.
+*Freelance · Nov 2025 – Present*
+
+- **Benchmark Design:** Developed domain-specific LLM coding-agent evaluation tasks involving scientific computing, environmental simulation, and parameter estimation.
+- **Evaluation Infrastructure:** Implemented sandboxed execution and Pytest-based automated grading to validate numerical results and multi-step tool-use workflows.
+
+### Data Scientist | OnePredict Inc.
+*Data Intelligence Team 1 · Aug 2023 – Nov 2024*
+
+- **Performance Optimization:** Reduced per-sample preprocessing time from **15s to 0.12s (125× speedup)** by redesigning moving RMS calculations with cumulative sums and optimizing correlation operations using Numba and JAX FFT.
+- **Industrial PdM:** Developed automated reference-signal template selection and adaptive thresholds for variable-speed motor fault detection, supporting on-premises monitoring of approximately **200 motors**.
+- **Production Validation:** Resolved all **188 recorded error cases** in a motor-diagnostics validation set and verified optimized numerical outputs against the original SciPy implementation.
+- **Signal-Based Anomaly Detection:** Combined frequency-domain signal analysis, pseudo-labeling, and autoencoder-based anomaly detection to identify noise patterns and subtle bearing defects.
+
+### Data Scientist | EHR&C Co., Ltd.
+*Data Science Team · Dec 2021 – Aug 2023*
+
+- **Simulation Acceleration:** Developed surrogate models using U-Net, conditional GANs, and Random Forest ensembles to reduce air-quality scenario evaluation from approximately **one month to seconds**.
+- **Computational Optimization:** Achieved approximately **800× training speedup** through JAX/Flax-based reimplementation and computational optimization of simulation-related ML workflows.
+- **Offline Reinforcement Learning:** Developed AWAC-based indoor air quality control policies using historical equipment logs, achieving approximately **5% reduction in operating time** in offline evaluation.
+- **Environmental Data Engineering:** Automated species distribution modeling for approximately **800 species**, reducing data integration time by **~95%**, and implemented weather-dependent CO₂ sensor calibration.
+
+---
+
+## 🚀 Selected Personal Projects
+
+### Featured Projects
+
+**[law_chat](https://law-chat-424793710669.asia-northeast3.run.app)** — AI Legal Assistant
+- Developed and deployed an LLM-powered legal Q&A application with document retrieval and source references.
+- Released as both a web application and an [Android app](https://play.google.com/store/apps/details?id=com.rhqud.lawchat).
+- **Focus:** LLM Applications · RAG · Full-Stack Development · Deployment
+<img width="312" height="430" alt="image" src="https://github.com/user-attachments/assets/21d4f674-fd15-412c-bc40-abfeac26d2d4" />
+
+**[multi_agent_awac](https://github.com/ByeonggeonGo/multi_agent_awac)** — Multi-Agent Offline Reinforcement Learning
+- Implemented an AWAC-based offline RL framework for multi-agent HVAC control and indoor air quality optimization.
+- **Focus:** Offline RL · PyTorch · Control Optimization
+
+### Other Projects
+
+| Project | Description |
+|---|---|
+| [CmaqProject](https://github.com/ByeonggeonGo/CmaqProject) | CMAQ environmental simulation data processing |
+| [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) | Geospatial image analysis using YOLO and SAM |
+| [geo_sdm](https://github.com/ByeonggeonGo/geo_sdm) | Species distribution modeling and geospatial prediction |
 ---
 
 ## 📝 Publications & Research Projects
-### Journal Papers
-- **Go, B.**, Shin, J., & Cha, Y. (2021). Development of benthic macroinvertebrate species distribution models using the Bayesian optimization. *Journal of the Korean Society of Water and Wastewater*, 35(4), 259-275.
+
+### Journal Articles
+- **Go, B.**, Shin, J., & Cha, Y. (2021). Development of benthic macroinvertebrate species distribution models using the Bayesian optimization. *Journal of the Korean Society of Water and Wastewater*, 35(4), 259–275.
 - Cha, Y., Shin, J., **Go, B.**, Lee, D. S., Kim, Y., Kim, T., & Park, Y. S. (2021). An interpretable machine learning method for supporting ecosystem management: Application to species distribution models of freshwater macroinvertebrates. *Journal of Environmental Management*, 291, 112719.
 - Shin, J., Yoon, S., Kim, Y., Kim, T., **Go, B.**, & Cha, Y. (2021). Effects of class imbalance on resampling and ensemble learning for improved prediction of cyanobacteria blooms. *Ecological Informatics*, 61, 101202.
 - Kim, Y. W., Kim, T., Shin, J., **Go, B.**, Lee, M., Lee, J., ... & Cha, Y. (2021). Forecasting abrupt depletion of dissolved oxygen in urban streams using discontinuously measured hourly time-series data. *Water Resources Research*, 57(4), e2020WR029188.
 - Kim, T., Kim, Y., Shin, J., **Go, B.**, & Cha, Y. (2020). Assessing land-cover effects on stream water quality in metropolitan areas using the water quality index. *Water*, 12(11), 3294.
 
-### Theses & Conference Proceedings
-- **Go, B.** (2021). Development of Species Distribution Models through Bayesian Optimization and Model Interpretation (Master's Thesis, University of Seoul).
+### Master's Thesis & Conference Presentations
+- **Go, B.** (2021). *Development of Species Distribution Models through Bayesian Optimization and Model Interpretation* [Master's thesis, University of Seoul].
 - **Go, B.**, Kim, Y., Shin, J., Kim, T., & Cha, Y. (2020). The effect of hyperparameter optimization method and generalization performance estimation method of machine learning model on the performance of river water quality forecasting model. *Korean Society of Environmental Engineers (KSEE) Conference*, Jeju, Korea.
 
-### Academic Research Projects
-- **Development of assessment methods and prediction models for water ecosystem health** (Korea Environmental Industry & Technology Institute, May 2020 ~ Jun 2021)
-- **Development of water/wastewater big data management/analysis platform and standardization technology** (Ministry of Environment, Apr 2020 ~ Jun 2021)
-- **Development of optimization methods for Seoul roadside air pollution monitoring network to support fine dust response policies** (Seoul Green Environment Center, Apr 2020 ~ Dec 2020)
-- **Development of AI-based modular models for multi-scale analysis of multi-mode environmental data** (Ministry of Science and ICT, Mar 2020 ~ Jun 2021)
-- **Development and applicability assessment of next-generation water quality and aquatic ecosystem forecasting models (II)** (National Institute of Environmental Research, Sep 2019 ~ Oct 2019)
-- **Establishment of water quality change evaluation plan using statistical methods (II)** (National Institute of Environmental Research, Jul 2019 ~ Mar 2020)
-
----
-
-### You can contact me via email at rhqudrjs7@gmail.com
+<details> Research Projects
+- **Development of Methods for Assessing and Predicting Aquatic Ecosystem Health** (Korea Environmental Industry & Technology Institute, May 2020 – Jun 2021)
+- **Development of a Big Data Management and Analysis Platform and Standardization Technologies for Water and Wastewater** (Ministry of Environment, Apr 2020 – Jun 2021)
+- **Optimization of Seoul's Roadside Air Quality Monitoring Network to Support Fine Particulate Matter Mitigation Policies** (Seoul Green Environment Center, Apr 2020 – Dec 2020)
+- **Development of AI-Based Modular Models for Multiscale Analysis of Multimodal Environmental Data** (Ministry of Science and ICT, Mar 2020 – Jun 2021)
+- **Development and Evaluation of Next-Generation Forecasting Models for Water Quality and Aquatic Ecosystems (II)** (National Institute of Environmental Research, Sep 2019 – Oct 2019)
+- **Development of a Statistical Framework for Assessing Changes in Water Quality (II)** (National Institute of Environmental Research, Jul 2019 – Mar 2020)
