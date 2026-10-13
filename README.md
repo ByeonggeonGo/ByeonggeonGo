@@ -83,6 +83,7 @@ My work focuses on reducing computational costs, improving model reliability, an
 
 | Project | Description |
 |---|---|
+| [vllm-custom-kv-codec-k8v4](https://github.com/ByeonggeonGo/vllm-custom-kv-codec-k8v4) | Custom 4/8-bit KV-cache codecs for vLLM with Triton kernels: 0.39x cache memory at bf16 decode speed |
 | [CmaqProject](https://github.com/ByeonggeonGo/CmaqProject) | CMAQ environmental simulation data processing |
 | [GeoVision-AI](https://github.com/ByeonggeonGo/GeoVision-AI) | Geospatial image analysis using YOLO and SAM |
 | [geo_sdm](https://github.com/ByeonggeonGo/geo_sdm) | Species distribution modeling and geospatial prediction |
